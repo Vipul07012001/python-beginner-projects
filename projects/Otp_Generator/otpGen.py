@@ -1,6 +1,6 @@
 import random
 
-# s_char for small letters
+# s_char for small letter
 s_char = "abcdefghijklmnopqrstuvwxyz"
 # b_char for capital letters
 b_char = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
